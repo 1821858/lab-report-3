@@ -14,4 +14,5 @@ This is a simple option, it's to add the letter "i" in front of -name. like so:
 
 What this does is tells the find command to not be case sensitive to the name you give it.
 
-![https://github.com/1821858/lab-report-3/blob/main/docs/assets/inamef.png?raw=true)
+
+![inamef.png](/docs/assests/inamef.png)
