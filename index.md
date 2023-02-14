@@ -1,7 +1,8 @@
 Dara Arbab
+
 Lab Report 3
 
-## The "Find" Command
+# The "Find" Command
 
 The find command is a very useful command that has plenty of versatile options.
 
