@@ -15,4 +15,4 @@ This is a simple option, it's to add the letter "i" in front of -name. like so:
 What this does is tells the find command to not be case sensitive to the name you give it.
 
 
-![inamef.png](/docs/assests/inamef.png)
+![inamef.png](/inamef.png)
